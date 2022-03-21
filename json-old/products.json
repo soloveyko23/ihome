@@ -1,0 +1,76 @@
+{
+	"products": [
+		{	
+			"category": "Угловые кухни",
+			"id": 6,
+			"title": "Muggo6756756756",
+			"text": "Small mug",
+			"labels": [
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"image": "06.png",
+			"price": "1.500"
+		},
+		{	
+			"category": "Прямые кухни",
+			"id": 7,
+			"title": "Muggo",
+			"text": "Small mug",
+			"labels": [
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"image": "06.jpg",
+			"price": "1.500.000"
+		},
+		{	
+			"category": "Прямые кухни",
+			"id": 8,
+			"title": "Muggo",
+			"text": "Small mug",
+			"labels": [
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"image": "06.jpg",
+			"price": "1.500.000"
+		}
+		,
+		{	
+			"category": "Кухни с островом",
+			"id": 9,
+			"title": "Muggo",
+			"text": "Small mug",
+			"labels": [
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"image": "06.jpg",
+			"price": "1.500.000"
+		}
+		,
+		{	
+			"category": "П-образные кухни",
+			"id": 10,
+			"title": "Muggo",
+			"text": "Small mug",
+			"labels": [
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"image": "06.jpg",
+			"price": "1.500.000"
+		}
+	]
+}

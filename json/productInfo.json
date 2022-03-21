@@ -1,0 +1,576 @@
+{
+	"productsInfo": [
+		{	
+			"category": "Угловые кухни",
+			"id": 5,
+			"title": "Угловые кухни",
+			"text": "Small mugпав авпыапыва пывап ывапва пва пывапваыпвыа",
+			"labels": [
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"price": "1.500.000",
+            "leftInfoList": [
+                {
+                    "bodyMaterial": "ЛДСП",
+                    "cabinetDecor": "«Орех Опера»",
+                    "facadeMaterial": " пластик «Альтуглас",
+                    "facadeDecor": "«Шоколадный леhrtyrtyд»"
+                }
+            ],
+            "leftInfoDesc": "Основное наполнение состоит из стеллажей, которые можно расположить вдоль стен либо углом.",
+            "rightSliderImages": "01.png, 02.png, 03.png", 
+            "rightThumbsImages": "01.png, 02.png, 03.png", 
+            "footerMoreInfo": [
+                {
+                    "about": "ЛДСП",
+                    "problems": "Маленькая площадь <span>12м2</span>, неправильная форма дома",
+                    "decision": " пластик «Альтуглас",
+                    "result": " пластик «Альтуглас",
+                    "price": [
+                        {
+                            "text": "изготовили за 22343 день",
+                            "price": "53 000 руб. "
+                        }
+                    ]
+                }
+            ]
+		},
+        {	
+			"category": "Прямые кухни",
+			"id": 6,
+			"title": "Прямые кухни",
+			"text": "Small mug",
+			"labels": [
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"price": "1.500.000",
+            "leftInfoList": [
+                {
+                    "bodyMaterial": "ЛДСП",
+                    "cabinetDecor": "«Орех Опера»",
+                    "facadeMaterial": " пластик «Альтуглас",
+                    "facadeDecor": "«Шоколадный лед»"
+                }
+            ],
+            "leftInfoDesc": "Основное наполнение состоит из стеллажей, которые можно расположить вдоль стен либо углом.",
+            "rightSliderImages": "01.png, 02.png, 03.png", 
+            "rightThumbsImages": "01.png, 02.png, 03.png", 
+            "footerMoreInfo": [
+                {
+                    "about": "ЛДСП",
+                    "problems": "«Орех Опера»",
+                    "decision": " пластик «Альтуглас",
+                    "result": " пластик «Альтуглас",
+                    "price": [
+                        {
+                            "text": "изготовили за 21 день",
+                            "price": "53 000 руб. "
+                        }
+                    ]
+                }
+            ]
+		},
+        {	
+			"category": "Прямые кухни",
+			"id": 7,
+			"title": "Прямые кухни",
+			"text": "Small mug",
+			"labels": [
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"price": "1.500.000",
+            "leftInfoList": [
+                {
+                    "bodyMaterial": "ЛДСП",
+                    "cabinetDecor": "«Орех Опера»",
+                    "facadeMaterial": " пластик «Альтуглас",
+                    "facadeDecor": "«Шоколадный лед»"
+                }
+            ],
+            "leftInfoDesc": "Основное наполнение состоит из стеллажей, которые можно расположить вдоль стен либо углом.",
+            "rightSliderImages": "01.png, 02.png, 03.png", 
+            "rightThumbsImages": "01.png, 02.png, 03.png", 
+            "footerMoreInfo": [
+                {
+                    "about": "ЛДСП",
+                    "problems": "«Орех Опера»",
+                    "decision": " пластик «Альтуглас",
+                    "result": " пластик «Альтуглас",
+                    "price": [
+                        {
+                            "text": "изготовили за 21 день",
+                            "price": "53 000 руб. "
+                        }
+                    ]
+                }
+            ]
+		}
+        ,
+        {	
+			"category": "Кухни с островом",
+			"id": 8,
+			"title": "Кухни с островом",
+			"text": "Small mug",
+			"labels": [
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"price": "1.500.000",
+            "leftInfoList": [
+                {
+                    "bodyMaterial": "ЛДСП",
+                    "cabinetDecor": "«Орех Опера»",
+                    "facadeMaterial": " пластик «Альтуглас",
+                    "facadeDecor": "«Шоколадный лед»"
+                }
+            ],
+            "leftInfoDesc": "Основное наполнение состоит из стеллажей, которые можно расположить вдоль стен либо углом.",
+            "rightSliderImages": "01.png, 02.png, 03.png",
+            "rightThumbsImages": "01.png, 02.png, 03.png",
+            "footerMoreInfo": [
+                {
+                    "about": "ЛДСП",
+                    "problems": "«Орех Опера»",
+                    "decision": " пластик «Альтуглас",
+                    "result": " пластик «Альтуглас",
+                    "price": [
+                        {
+                            "desc": "изготовили за 21 день",
+                            "price": "53 000 руб. "
+                        }
+                    ]
+                }
+            ]
+		},
+        {	
+			"category": "П-образные кухни",
+			"id": 9,
+			"title": "П-образные кухни",
+			"text": "Small mug",
+			"labels": [
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"price": "1.500.000",
+            "leftInfoList": [
+                {
+                    "bodyMaterial": "ЛДСП",
+                    "cabinetDecor": "«Орех Опера»",
+                    "facadeMaterial": " пластик «Альтуглас",
+                    "facadeDecor": "«Шоколадный лед»"
+                }
+            ],
+            "leftInfoDesc": "Основное наполнение состоит из стеллажей, которые можно расположить вдоль стен либо углом.",
+            "rightSliderImages": "01.png, 02.png, 03.png",
+            "rightThumbsImages": "01.png, 02.png, 03.png",
+            "footerMoreInfo": [
+                {
+                    "about": "ЛДСП",
+                    "problems": "«Орех Опера»",
+                    "decision": " пластик «Альтуглас",
+                    "result": " пластик «Альтуглас",
+                    "price": [
+                        {
+                            "desc": "изготовили за 21 день",
+                            "price": "53 000 руб. "
+                        }
+                    ]
+                }
+            ]
+		},
+        {	
+			"category": "П-образные кухни",
+			"id": 10,
+			"title": "П-образные кухни",
+			"text": "Small mug",
+			"labels": [
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"price": "1.500.000",
+            "leftInfoList": [
+                {
+                    "bodyMaterial": "ЛДСП",
+                    "cabinetDecor": "«Орех Опера»",
+                    "facadeMaterial": " пластик «Альтуглас",
+                    "facadeDecor": "«Шоколадный лед»"
+                }
+            ],
+            "leftInfoDesc": "Основное наполнение состоит из стеллажей, которые можно расположить вдоль стен либо углом.",
+            "rightSliderImages": "01.png, 02.png, 03.png",
+            "rightThumbsImages": "01.png, 02.png, 03.png",
+            "footerMoreInfo": [
+                {
+                    "about": "ЛДСП",
+                    "problems": "«Орех Опера»",
+                    "decision": " пластик «Альтуглас",
+                    "result": " пластик «Альтуглас",
+                    "price": [
+                        {
+                            "desc": "изготовили за 21 день",
+                            "price": "53 000 руб. "
+                        }
+                    ]
+                }
+            ]
+		},
+        {	
+			"category": "П-образные кухни",
+			"id": 12,
+			"title": "П-образные кухни",
+			"text": "Small mug",
+			"labels": [
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"price": "1.500.000",
+            "leftInfoList": [
+                {
+                    "bodyMaterial": "ЛДСП",
+                    "cabinetDecor": "«Орех Опера»",
+                    "facadeMaterial": " пластик «Альтуглас",
+                    "facadeDecor": "«Шоколадный лед»"
+                }
+            ],
+            "leftInfoDesc": "Основное наполнение состоит из стеллажей, которые можно расположить вдоль стен либо углом.",
+            "rightSliderImages": "01.png, 02.png, 03.png",
+            "rightThumbsImages": "01.png, 02.png, 03.png",
+            "footerMoreInfo": [
+                {
+                    "about": "ЛДСП",
+                    "problems": "«Орех Опера»",
+                    "decision": " пластик «Альтуглас",
+                    "result": " пластик «Альтуглас",
+                    "price": [
+                        {
+                            "desc": "изготовили за 21 день",
+                            "price": "53 000 руб. "
+                        }
+                    ]
+                }
+            ]
+		},
+        {	
+			"category": "П-образные кухни",
+			"id": 13,
+			"title": "П-образные кухни",
+			"text": "Small mug",
+			"labels": [
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"price": "1.500.000",
+            "leftInfoList": [
+                {
+                    "bodyMaterial": "ЛДСП",
+                    "cabinetDecor": "«Орех Опера»",
+                    "facadeMaterial": " пластик «Альтуглас",
+                    "facadeDecor": "«Шоколадный лед»"
+                }
+            ],
+            "leftInfoDesc": "Основное наполнение состоит из стеллажей, которые можно расположить вдоль стен либо углом.",
+            "rightSliderImages": "01.png, 02.png, 03.png",
+            "rightThumbsImages": "01.png, 02.png, 03.png",
+            "footerMoreInfo": [
+                {
+                    "about": "ЛДСП",
+                    "problems": "«Орех Опера»",
+                    "decision": " пластик «Альтуглас",
+                    "result": " пластик «Альтуглас",
+                    "price": [
+                        {
+                            "desc": "изготовили за 21 день",
+                            "price": "53 000 руб. "
+                        }
+                    ]
+                }
+            ]
+		},
+        {	
+			"category": "Кухни с островом",
+			"id": 14,
+			"title": "Кухни с островом",
+			"text": "Small mug",
+			"labels": [
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"price": "1.500.000",
+            "leftInfoList": [
+                {
+                    "bodyMaterial": "ЛДСП",
+                    "cabinetDecor": "«Орех Опера»",
+                    "facadeMaterial": " пластик «Альтуглас",
+                    "facadeDecor": "«Шоколадный лед»"
+                }
+            ],
+            "leftInfoDesc": "Основное наполнение состоит из стеллажей, которые можно расположить вдоль стен либо углом.",
+            "rightSliderImages": "01.png, 02.png, 03.png",
+            "rightThumbsImages": "01.png, 02.png, 03.png",
+            "footerMoreInfo": [
+                {
+                    "about": "ЛДСП",
+                    "problems": "«Орех Опера»",
+                    "decision": " пластик «Альтуглас",
+                    "result": " пластик «Альтуглас",
+                    "price": [
+                        {
+                            "desc": "изготовили за 21 день",
+                            "price": "53 000 руб. "
+                        }
+                    ]
+                }
+            ]
+		},
+        {	
+			"category": "Кухни с островом",
+			"id": 15,
+			"title": "Кухни с островом",
+			"text": "Small mug",
+			"labels": [
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"price": "1.500.000",
+            "leftInfoList": [
+                {
+                    "bodyMaterial": "ЛДСП",
+                    "cabinetDecor": "«Орех Опера»",
+                    "facadeMaterial": " пластик «Альтуглас",
+                    "facadeDecor": "«Шоколадный лед»"
+                }
+            ],
+            "leftInfoDesc": "Основное наполнение состоит из стеллажей, которые можно расположить вдоль стен либо углом.",
+            "rightSliderImages": "01.png, 02.png, 03.png",
+            "rightThumbsImages": "01.png, 02.png, 03.png",
+            "footerMoreInfo": [
+                {
+                    "about": "ЛДСП",
+                    "problems": "«Орех Опера»",
+                    "decision": " пластик «Альтуглас",
+                    "result": " пластик «Альтуглас",
+                    "price": [
+                        {
+                            "desc": "изготовили за 21 день",
+                            "price": "53 000 руб. "
+                        }
+                    ]
+                }
+            ]
+		},
+        {	
+			"category": "Кухни с островом",
+			"id": 16,
+			"title": "Кухни с островом",
+			"text": "Small mug",
+			"labels": [
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"price": "1.500.000",
+            "leftInfoList": [
+                {
+                    "bodyMaterial": "ЛДСП",
+                    "cabinetDecor": "«Орех Опера»",
+                    "facadeMaterial": " пластик «Альтуглас",
+                    "facadeDecor": "«Шоколадный лед»"
+                }
+            ],
+            "leftInfoDesc": "Основное наполнение состоит из стеллажей, которые можно расположить вдоль стен либо углом.",
+            "rightSliderImages": "01.png, 02.png, 03.png",
+            "rightThumbsImages": "01.png, 02.png, 03.png",
+            "footerMoreInfo": [
+                {
+                    "about": "ЛДСП",
+                    "problems": "«Орех Опера»",
+                    "decision": " пластик «Альтуглас",
+                    "result": " пластик «Альтуглас",
+                    "price": [
+                        {
+                            "desc": "изготовили за 21 день",
+                            "price": "53 000 руб. "
+                        }
+                    ]
+                }
+            ]
+		},
+        {	
+			"category": "Прямые кухни",
+			"id": 17,
+			"title": "Прямые кухни",
+			"text": "Small mug",
+			"labels": [
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"price": "1.500.000",
+            "leftInfoList": [
+                {
+                    "bodyMaterial": "ЛДСП",
+                    "cabinetDecor": "«Орех Опера»",
+                    "facadeMaterial": " пластик «Альтуглас",
+                    "facadeDecor": "«Шоколадный лед»"
+                }
+            ],
+            "leftInfoDesc": "Основное наполнение состоит из стеллажей, которые можно расположить вдоль стен либо углом.",
+            "rightSliderImages": "01.png, 02.png, 03.png", 
+            "rightThumbsImages": "01.png, 02.png, 03.png", 
+            "footerMoreInfo": [
+                {
+                    "about": "ЛДСП",
+                    "problems": "«Орех Опера»",
+                    "decision": " пластик «Альтуглас",
+                    "result": " пластик «Альтуглас",
+                    "price": [
+                        {
+                            "text": "изготовили за 21 день",
+                            "price": "53 000 руб. "
+                        }
+                    ]
+                }
+            ]
+		},
+        {	
+			"category": "Прямые кухни",
+			"id": 18,
+			"title": "Прямые кухни",
+			"text": "Small mug",
+			"labels": [
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"price": "1.500.000",
+            "leftInfoList": [
+                {
+                    "bodyMaterial": "ЛДСП",
+                    "cabinetDecor": "«Орех Опера»",
+                    "facadeMaterial": " пластик «Альтуглас",
+                    "facadeDecor": "«Шоколадный лед»"
+                }
+            ],
+            "leftInfoDesc": "Основное наполнение состоит из стеллажей, которые можно расположить вдоль стен либо углом.",
+            "rightSliderImages": "01.png, 02.png, 03.png", 
+            "rightThumbsImages": "01.png, 02.png, 03.png", 
+            "footerMoreInfo": [
+                {
+                    "about": "ЛДСП",
+                    "problems": "«Орех Опера»",
+                    "decision": " пластик «Альтуглас",
+                    "result": " пластик «Альтуглас",
+                    "price": [
+                        {
+                            "text": "изготовили за 21 день",
+                            "price": "53 000 руб. "
+                        }
+                    ]
+                }
+            ]
+		},
+        {	
+			"category": "Прямые кухни",
+			"id": 19,
+			"title": "Прямые кухни",
+			"text": "Small mug",
+			"labels": [
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"price": "1.500.000",
+            "leftInfoList": [
+                {
+                    "bodyMaterial": "ЛДСП",
+                    "cabinetDecor": "«Орех Опера»",
+                    "facadeMaterial": " пластик «Альтуглас",
+                    "facadeDecor": "«Шоколадный лед»"
+                }
+            ],
+            "leftInfoDesc": "Основное наполнение состоит из стеллажей, которые можно расположить вдоль стен либо углом.",
+            "rightSliderImages": "01.png, 02.png, 03.png", 
+            "rightThumbsImages": "01.png, 02.png, 03.png", 
+            "footerMoreInfo": [
+                {
+                    "about": "ЛДСП",
+                    "problems": "«Орех Опера»",
+                    "decision": " пластик «Альтуглас",
+                    "result": " пластик «Альтуглас",
+                    "price": [
+                        {
+                            "text": "изготовили за 21 день",
+                            "price": "53 000 руб. "
+                        }
+                    ]
+                }
+            ]
+		}
+        ,
+        {	
+			"category": "Прямые кухни",
+			"id": 20,
+			"title": "Прямые кухни",
+			"text": "Small mug",
+			"labels": [
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"price": "1.500.000",
+            "leftInfoList": [
+                {
+                    "bodyMaterial": "ЛДСП",
+                    "cabinetDecor": "«Орех Опера»",
+                    "facadeMaterial": " пластик «Альтуглас",
+                    "facadeDecor": "«Шоколадный лед»"
+                }
+            ],
+            "leftInfoDesc": "Основное наполнение состоит из стеллажей, которые можно расположить вдоль стен либо углом.",
+            "rightSliderImages": "01.png, 02.png, 03.png", 
+            "rightThumbsImages": "01.png, 02.png, 03.png", 
+            "footerMoreInfo": [
+                {
+                    "about": "ЛДСП",
+                    "problems": "«Орех Опера»",
+                    "decision": " пластик «Альтуглас",
+                    "result": " пластик «Альтуглас",
+                    "price": [
+                        {
+                            "text": "изготовили за 21 день",
+                            "price": "53 000 руб. "
+                        }
+                    ]
+                }
+            ]
+		}
+	]
+}
